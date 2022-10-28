@@ -88,6 +88,18 @@ int main()
 
 <br>
 
+### Multiple line code block here(C - program)
+```c
+#include <iostream>
+int main()
+{
+    cout << "Printf C++ Code";
+    return 0;
+    getch();
+}
+```
+<br>
+
 ### order List
 1. Aower
 2. Sowrab
