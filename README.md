@@ -41,7 +41,7 @@ __This is a Bold line__
 
 <br>
 
-### Multiple line code block here(JavaScript)
+### Multiple line code block here(HTMl)
 ```html
 <html>
     <head>
