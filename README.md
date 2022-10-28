@@ -38,9 +38,24 @@ __This is a Bold line__
 `This is inline code block here`  
 `<h2> This is inline code block here </h2>`
 
+
 <br>
 
-### Multiple line code block here
+### Multiple line code block here(JavaScript)
+```html
+<html>
+    <head>
+        <title>Bangladseh!</title>
+    </head>
+    <body>
+        <p>This is a test paragraph</p>
+    </body>
+</html>
+```
+
+<br>
+
+### Multiple line code block here(JavaScript)
 ```js
 function test(a, b){
     console.log(X + y)
@@ -48,7 +63,7 @@ function test(a, b){
 test(10, 20)
 ```
 
-### Multiple line code block here
+### Multiple line code block here(C++)
 ```c++
 #include <iostream>
 #include <conio.h>
