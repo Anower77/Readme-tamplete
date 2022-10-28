@@ -1,0 +1,18 @@
+--Mark Down--
+1. what & why README.md?
+2. How to make a comment
+3. Normal text & new line(markdown:systax "double space")
+4. Horizontal rule(markdown:systax 
+"---")
+5. Headings(markdown:systax "# - <h1> | ## - <h2> | ### - <h3>")
+6. Paragraph(<p></p>)
+7. Italic(markdown:systax "_italic_")
+8. bold(markdown:systax "__bold__")
+9. strikethrough(markdown:systax "~~strikethrough~~")
+10. inline code block
+11. Multiple line code block
+12. List
+13. Link
+14. Image
+15. Emoji
+16. Table
